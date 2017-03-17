@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="home">首页</string>
+    <string name="hot">天气</string>
+    <string name="category">旅途</string>
+    <string name="cart">论坛</string>
+    <string name="mine">我的</string>
+</resources>
